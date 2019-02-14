@@ -15,10 +15,6 @@
 *.iws
 *.iml
 *.ipr
-.mvn
-.mvn/wrapper/MavenWrapperDownloader.java
-.mvn/wrapper/maven-wrapper.jar
-.mvn/wrapper/maven-wrapper.properties
 
 ### NetBeans ###
 /nbproject/private/
