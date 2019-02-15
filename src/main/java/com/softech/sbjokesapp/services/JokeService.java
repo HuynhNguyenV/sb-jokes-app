@@ -1,0 +1,7 @@
+package com.softech.sbjokesapp.services;
+
+public interface JokeService {
+
+    String getJoke();
+
+}
